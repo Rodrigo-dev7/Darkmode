@@ -6,3 +6,6 @@ Alterando cor de uma pagina com  somente JavaScript e CSS  Variable.
 
 # Resumo
 Utilizando JavaScript puro e Variáveis no CSS alterando layout para modo Dark o resultado ficou bem bacana.
+
+
+[Design retirado desse vídeo ](https://www.youtube.com/watch?v=BvhYm0BOLvA)
